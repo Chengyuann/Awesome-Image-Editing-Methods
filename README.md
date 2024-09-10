@@ -1,6 +1,7 @@
 
 A collection of academic articles, published methodology, and datasets on the subject of **Image Editing**.
 
+![Image Editing](https://github.com/user-attachments/assets/08f92eb7-506b-47b4-ba45-924aec556c3c)
 
 
 
